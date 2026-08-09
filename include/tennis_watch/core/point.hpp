@@ -1,4 +1,5 @@
 #pragma once
+#include <chrono>
 #include <cstdint>
 #include <string>
 
@@ -24,6 +25,7 @@ struct Point {
     std::string p2_score;
     int p1_games_won;
     int p2_games_won;
+    std::chrono::seconds time;  // time since start of first point
 
     // point outcome and info
     int point_winner;
