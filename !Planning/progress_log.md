@@ -17,3 +17,4 @@ Decision:
     - Persistence of data will come at a later stage when databases come into the picture but isn't yet required for the MVP
     - We are not going to store derived fields like P1NetPointWon
     - We are going to use two booleans p1_net_point and p2_net_point
+
