@@ -1,2 +1,5 @@
 Planning/serve_watch_reference.md
 .agents/*
+.clang-format
+compile_flags.txt
+scratch.cpp
