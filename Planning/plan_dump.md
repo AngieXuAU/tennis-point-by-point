@@ -153,8 +153,7 @@ tennis-point-by-point/
     - P1Winner - 1 for yes, 0 for no
     - P1DoubleFault - 1 for yes, 0 for no etc.
     - P1UnfErr
-    - P1NetPoint
-    - P1NetPointWon
+    - P1NetPoint - 1 for yes they initiated the net point. Whether they won the net point can be calculated using PointWinner
     - P1BreakPoint
     - P1BreakPointWon
     - P1BreakPointMissed
